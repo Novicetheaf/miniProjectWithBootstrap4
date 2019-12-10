@@ -1,5 +1,5 @@
 # Mini Project
 
-Welcome USER_NAME,
+Welcome Ed,
 
 bootstrap cv mini project template
