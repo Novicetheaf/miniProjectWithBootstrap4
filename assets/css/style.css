@@ -183,6 +183,14 @@ header {
     letter-spacing: 2px;
 }
 
+.ui-menu-color-github{
+    background-color: grey;
+}
+
+li.col-xs-6.col-sm-2.ui-menu-color-interests.menuitem{
+    background-color: silver;
+}
+
 /*--------------------------------------------Hover.css*/
 
 .hvr-sweep-to-bottom:before {
